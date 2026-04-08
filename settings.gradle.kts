@@ -11,10 +11,6 @@ include(
     ":lyricist-core",
     ":lyricist-processor-compose",
     ":lyricist-processor-xml",
-    ":sample",
-    ":sample-xml",
-    ":sample-multi-module",
-    ":sample-multiplatform",
 )
 
 // There's an issue when a module has the same name of the project
